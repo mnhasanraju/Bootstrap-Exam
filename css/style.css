@@ -1,0 +1,96 @@
+
+
+
+/* Header Part Start*/
+.header-part {
+	width: 100%;
+	float: left;
+	margin-top: 20px;
+
+}
+
+.cstm-nav {
+	color: #989898;
+}
+
+/* Header Part End */
+
+
+/* Banner Part Start */
+
+.banner-part {
+	width: 100%;
+	margin: 0px auto;
+	float: left;
+	background: url(../img/icrowdme-PSD---cssauthor.png);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-top: 20px;
+	
+}
+
+.overlay {
+	width: 100%;
+	float: left;
+	background-color: #c8cfca75;
+
+}
+
+.banner-content {
+	text-align: center;
+
+}
+
+.banner-header {
+	margin-top: 170px;
+	color: #ffff;
+}
+
+.banner-header-two {
+	color: #ffff;
+	margin-top: 20px;
+}
+
+.bnr-btn {
+	margin-top: 60px;
+	margin-bottom: 170px;
+	padding: 12px 20px;
+	color: #ffff;
+	background: #99c50a;
+}
+
+
+/* Banner Part End */
+
+
+/* Works Part Start */
+
+.works-section {
+	width: 100%;
+	margin: 0px auto;
+	float: left;
+
+}
+
+.works-content {
+	width: 100%;
+	float: left;
+	text-align: center;
+	margin-top: 95px;
+
+}
+
+.works-head {
+	margin-top: 50px;
+	text-transform: uppercase;
+}
+
+.works-text {
+	margin-top: 70px;
+}
+
+
+
+
+/* Works Part Start */
