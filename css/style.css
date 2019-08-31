@@ -190,12 +190,37 @@
 
 }
 
-.price-tag {
-	font-size: 16px;
-	font-weight: bold;
-	background: #26a6d1;
+.sec-4-img {
+	position: relative;
 }
 
+.price-tag {
+	font-size: 16px;
+	background-color: #26a6d1;
+	color: #ffff;
+	position: absolute;
+	top: 190px;
+	font-weight: normal;
+	right: 75px;
+}
+
+.price-tag-price {
+	font-weight: bold;
+
+}
+
+
+.sec-4-img-head {
+	font-size: 17px;
+	padding-top: 28px;
+
+}
+
+.sec-4-text {
+	font-size: 13px;
+	padding-top: 15px;
+
+}
 /*-- sec-4 End --*/
 
 --------
