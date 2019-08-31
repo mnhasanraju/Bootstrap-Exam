@@ -187,6 +187,7 @@
 }
 
 .sec-4-folio-content {
+	
 
 }
 
@@ -213,13 +214,16 @@
 .sec-4-img-head {
 	font-size: 17px;
 	padding-top: 28px;
+	margin-left: 20px;
 
 }
 
 .sec-4-text {
-	font-size: 13px;
-	padding-top: 15px;
-
+    font-size: 13px;
+    padding-top: 15px;
+    margin-right: 80px;
+    margin-left: 20px;
+    text-align: left;
 }
 
 .sec-4-inside {
@@ -227,8 +231,41 @@
 
 }
 
-.sec-4-inside-text {
+.sec-4-inside-text-left {
 	font-size: 13px;
+	margin-left: 18px;
+}
+
+.sec-4-inside-text-right {
+	font-size: 13px;
+}
+
+.sec-4-inside-span {
+	width: 62%;
+	border-bottom: 1px solid #b6b6b6;
+	display: block;
+	margin-left: 35px;
+	padding-top: 20px;
+
+}
+
+.sec-4-btn-2 {
+	border: none;
+	color: #b6b6b6;
+	border: none;
+	margin: 30px auto;
+
+}
+
+.fa.fa-caret-right {
+	color: #add136;
+	font-size: 24px;
+}
+
+.sec-4-btn-2:hover {
+	transition: none;
+	border: none;
+
 }
 /*-- sec-4 End --*/
 
