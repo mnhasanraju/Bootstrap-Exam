@@ -18,7 +18,7 @@
 
 /* Banner Part Start */
 
-.banner-part {
+.banner {
 	width: 100%;
 	margin: 0px auto;
 	float: left;
@@ -64,33 +64,100 @@
 /* Banner Part End */
 
 
-/* Works Part Start */
+/* sec-1 Part Start */
 
-.works-section {
+.sec-1 {
 	width: 100%;
 	margin: 0px auto;
 	float: left;
 
 }
 
-.works-content {
+.sec-1-content {
 	width: 100%;
 	float: left;
 	text-align: center;
-	margin-top: 95px;
+	padding-top: 95px;
 
 }
 
-.works-head {
-	margin-top: 50px;
+.sec-1-head {
+	padding-top: 50px;
 	text-transform: uppercase;
 }
 
-.works-text {
-	margin-top: 70px;
+.sec-1-text {
+	padding-top: 70px;
+	font-size: 20px;
+	padding-bottom: 135px;
+}
+
+
+/* Works Part End */
+
+
+
+
+/*-- Sec-3 Start --*/
+.sec-3 {
+	width: 100%;
+	margin: 0px auto;
+	float: left;
+
+}
+
+.sec-3-content {
+	background: #e2f8ff;
+	padding: 45px 0px;
+}
+
+.sec-3-content-2 {
+	background: #f5f9eb;
+	padding: 45px 0px;
+}
+
+
+.sec-3-img {
+	text-align: center;
+
+}
+
+.sec-3-text {
+
+
+}
+
+.sec-3-head {
+	font-size: 23px;
+
+}
+
+.sec-3-prg {
+	font-size: 18px;
+}
+
+.sec-3-btn {
+	background: #26a6d1;
+	color: #ffff;
+
+}
+
+.sec-3-btn-2 {
+	background: #add136;
+	color: #ffff;
+
 }
 
 
 
 
-/* Works Part Start */
+/*-- Sec-3 End --*/
+
+
+
+
+--------
+
+/*-- Test Part Start --*/
+
+/*-- Test Part End --*/
